@@ -14,7 +14,7 @@ class Solution {
             }
         }
         
-        System.out.println(prod1Ans+" ");
+       // System.out.println(prod1Ans+" ");
         int prod2 = nums[nums.length-1]!=0? nums[nums.length-1] : 1;
         int prod2Ans = nums[nums.length-1];
         for(int i=nums.length-2;i>=0;i--){
@@ -28,7 +28,7 @@ class Solution {
               prod2Ans = Math.max(prod2,prod2Ans);
             }
         }
-        System.out.println(prod2Ans+" ");
+        //System.out.println(prod2Ans+" ");
         return Math.max(prod1Ans, prod2Ans);
     }
 }
