@@ -31,29 +31,29 @@ class Solution {
                j2++;
            }
 
-           int k3 = i-1;
-           int j3 = i;
-           int count3 = 0;
-           while(k3>=0 && j3<n){
-               if(s.charAt(k3)==s.charAt(j3)){
-                   count3 += 2;
-               }
-               else{
-                   break;
-               } 
-               k3--;
-               j3++;
-           }
+        //    int k3 = i-1;
+        //    int j3 = i;
+        //    int count3 = 0;
+        //    while(k3>=0 && j3<n){
+        //        if(s.charAt(k3)==s.charAt(j3)){
+        //            count3 += 2;
+        //        }
+        //        else{
+        //            break;
+        //        } 
+        //        k3--;
+        //        j3++;
+        //    }
            //System.out.println(count1+" "+count2+" "+count3+" "+i);
-           if(count1>count2 && count1>count3 && count1>ans.length()){
+           if(count1>count2 && count1>ans.length()){
                ans = s.substring(k1+1,j1);
            }
-           else if(count2>count1 && count2>count3 && count2>ans.length()){
+           else if(count2>count1 && count2>ans.length()){
                ans = s.substring(k2+1,j2);
            }
-           else if(count3>count1 && count3>count2 && count3>ans.length()){
-               ans = s.substring(k3+1,j3);
-           }
+        //    else if(count3>count1 && count3>count2 && count3>ans.length()){
+        //        ans = s.substring(k3+1,j3);
+        //    }
         }
         return ans;
     }
