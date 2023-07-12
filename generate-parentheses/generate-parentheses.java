@@ -5,7 +5,6 @@ class Solution {
         return ans;
     }
      public void generateParenthesis(int open, int closed,int total, String ansStr, List<String> ans) {
-           //System.out.println(ansStr+" "+open+" "+closed);
            if(open+closed>2*total){
                return;
            }
