@@ -4,7 +4,7 @@ class Solution {
             return search(nums, 0, nums.length-1, target);
         }
         int pivot = findPivot(nums);
-        System.out.println(pivot);
+        //System.out.println(pivot);
         if(target>=nums[0] && target<=nums[pivot-1]){
             return search(nums,0,pivot-1, target);
         }
