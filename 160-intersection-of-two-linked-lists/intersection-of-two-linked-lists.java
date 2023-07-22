@@ -16,7 +16,6 @@ public class Solution {
         int diff = l1-l2;
         ListNode temp1 = null;
         ListNode temp2 = null;
-        //System.out.println(l1+" "+l2+" "+diff);
         if(diff>0){
            temp1 = headA;
            temp2 = headB;
