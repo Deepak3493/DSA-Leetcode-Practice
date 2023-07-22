@@ -29,9 +29,6 @@ public class Solution {
            temp1=temp1.next;
            diff--;
         }
-        if(temp1==null || temp2==null){
-            return null;
-        }
         while(temp1!=null && temp2!=null){
             if(temp1.equals(temp2)){
                 return temp1;
