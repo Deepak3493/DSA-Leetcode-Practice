@@ -22,7 +22,6 @@ class Solution {
                 count1--;
                 count2--;
             }
-            System.out.println(ans1+" "+count1+" "+ans2+" "+count2);
        }
        List<Integer> ansList = new ArrayList<>();
        int k1=0;
@@ -35,7 +34,6 @@ class Solution {
                 k2++;
             }
        }
-        System.out.println(k2+" "+ans2+" "+k1+" "+ans1);
         if(k1>Math.floor(nums.length*1.0)/3.0)
            ansList.add(ans1);
         if(k2>Math.floor(nums.length*1.0)/3.0 && ans1 != ans2)
