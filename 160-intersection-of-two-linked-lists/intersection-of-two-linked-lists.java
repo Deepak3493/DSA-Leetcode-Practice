@@ -22,30 +22,23 @@ public class Solution {
         }
         if(temp1==null){
             temp1 = headB;
-            while(temp1!=null){
-                if(temp2 == null){
-                    temp2 = headA;
-                }
-                if(temp1 == temp2){
-                    return temp1;
-                }
-                temp1 = temp1.next;
-                temp2 = temp2.next;
-            }
+            return checkAns(temp1, temp2, headA);
         }
-        if(temp2 == null){
-
+        else{
             temp2 = headA;
-            while(temp2!=null){
-                if(temp1 == null){
-                    temp1 = headB;
-                }
-                if(temp2 == temp1){
-                    return temp2;
-                }
-                temp2 = temp2.next;
-                temp1 = temp1.next;
+            return checkAns(temp2, temp1, headB);
+        }
+    }
+    public static ListNode checkAns(ListNode temp1 , ListNode temp2, ListNode head) {
+        while(temp1!=null){
+            if(temp2 == null){
+                temp2 = head;
             }
+            if(temp1 == temp2){
+                return temp1;
+            }
+            temp1 = temp1.next;
+            temp2 = temp2.next;
         }
         return null;
     }
