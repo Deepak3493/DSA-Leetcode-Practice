@@ -35,7 +35,6 @@ class Solution {
         ans = Math.max(root.val, ans);
         ans = Math.max(ans, left+right+root.val);
         maxSum = Math.max(maxSum, ans);
-        maxSum = Math.max(maxSum, root.val);
         return Math.max(root.val,root.val+Math.max(left,right));
     }
 }
