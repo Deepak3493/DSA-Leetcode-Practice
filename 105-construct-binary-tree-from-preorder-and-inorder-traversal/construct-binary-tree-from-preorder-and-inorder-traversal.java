@@ -19,20 +19,28 @@ class Solution {
         for(int i=0;i<inorder.length;i++){
             mp.put(inorder[i],i);
         }
-        return builTrees(preorder, inorder, 0,inorder.length-1, 0,preorder.length-1,mp);
+        return buildTree(preorder,0,preorder.length-1,inorder,0, inorder.length-1,mp);
     }
-    public TreeNode builTrees(int[] preorder, int[] inorder, int startin, int endin, int startpre, int endpre, HashMap<Integer, Integer> mp)
-    {
-        if(startpre>endpre || startin>endin){
-            return null;
-        }
-        int k = preorder[startpre];
-        int indexOfIn = mp.get(k);
-        int leftLength = (indexOfIn-startin);
-        TreeNode root = new TreeNode(k);
-        root.left = builTrees(preorder, inorder, startin,indexOfIn-1,startpre+1, startpre+leftLength,mp);
-        root.right = builTrees(preorder, inorder,  indexOfIn+1, endin,startpre+leftLength+1, endpre,mp);
-        return root;
+    public TreeNode buildTree(int[] preOrder,int preStart, int preEnd ,int[] inOrder
+    , int inStart, int inEnd, HashMap<Integer, Integer> mp) {
         
+        if(inStart>inEnd || preStart>preEnd)
+            return null;
+
+        TreeNode root = new TreeNode(preOrder[preStart]);
+
+        int inOrderRoot = mp.get(preOrder[preStart]);
+        int leftLength = inOrderRoot-inStart;
+        
+        TreeNode left = buildTree(preOrder, preStart+1, preStart+leftLength, inOrder, inStart,
+        inOrderRoot-1,mp);
+
+        TreeNode right = buildTree(preOrder, preStart+leftLength+1, preEnd, inOrder, inOrderRoot+1,inEnd,mp);
+
+        root.left = left;
+        root.right = right;
+
+        return root;
+
     }
 }
