@@ -1,11 +1,8 @@
 class Solution {
     public String longestCommonPrefix(String[] strs) {
-        int longestLengthWord = 0;
-        for(int i=0;i<strs.length;i++){
-            longestLengthWord = Math.max(longestLengthWord, strs[i].length());
-        }
+        int longestLengthWord = 200;
         String ans = "";
-        for(int i=0;i<longestLengthWord;i++){
+        for(int i=0;i<=longestLengthWord;i++){
             char ch = ' ';
             for(int j = 0;j<strs.length;j++){
                   String s = strs[j];
