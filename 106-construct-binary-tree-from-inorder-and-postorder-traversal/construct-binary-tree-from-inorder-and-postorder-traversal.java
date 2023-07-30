@@ -30,12 +30,12 @@ class Solution {
         TreeNode root = new TreeNode(postorder[posEnd]);
 
         int inOrderRoot = mp.get(postorder[posEnd]);
-        int rightLength = inEnd - inOrderRoot;
+        int leftLength = inOrderRoot-inStart-1;
         
-        TreeNode left = buildTree(postorder, posStart, posEnd-rightLength-1, inOrder, inStart,
+        TreeNode left = buildTree(postorder, posStart, posStart+leftLength, inOrder, inStart,
         inOrderRoot-1,mp);
 
-        TreeNode right = buildTree(postorder, posEnd-rightLength, posEnd-1, inOrder, inOrderRoot+1,inEnd,mp);
+        TreeNode right = buildTree(postorder, posStart+leftLength+1, posEnd-1, inOrder, inOrderRoot+1,inEnd,mp);
 
         root.left = left;
         root.right = right;
