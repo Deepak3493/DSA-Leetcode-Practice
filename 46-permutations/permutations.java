@@ -6,7 +6,10 @@ class Solution {
         return ans;
     }
     public void permute(int[] nums, List<List<Integer>> ans,  List<Integer> subAns, int start, int end ){
-       int count = 0;
+       if(nums.length == subAns.size()){
+           ans.add(List.copyOf(subAns));
+           return ;
+       }
        for(int i=start;i<end;i++){
            int temp = nums[i];
            if(nums[i]!=-100){
@@ -16,11 +19,6 @@ class Solution {
               if(subAns.size()>0)
               subAns.remove(subAns.size()-1);
                nums[i] = temp;
-           }
-           else{
-               count++;
-               if(count == nums.length)
-                   ans.add(List.copyOf(subAns));
            }
        }
 
