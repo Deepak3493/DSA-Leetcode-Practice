@@ -2,25 +2,27 @@ class Solution {
     public List<List<Integer>> permute(int[] nums) {
         List<List<Integer>> ans = new ArrayList<>();
         List<Integer> subAns = new ArrayList<>();
-        permute(ans, nums, 0, subAns);
+        permute(nums, ans, subAns, 0, nums.length);
         return ans;
     }
-    public static void permute(List<List<Integer>> ans, int nums[], int ind, List<Integer> subAns){
-       
-        if(subAns.size()==nums.length){
-            ans.add(new ArrayList<>(subAns));
-            return;
-        }
-        for(int i=0;i<nums.length;i++){
-          if(nums[i]!=Integer.MAX_VALUE){
-            subAns.add(nums[i]);
-            int c = nums[i];
-            nums[i] = Integer.MAX_VALUE;
-            permute(ans,nums,i,subAns);
-            nums[i] = c;
-            subAns.remove(subAns.size()-1);
-        }
+    public void permute(int[] nums, List<List<Integer>> ans,  List<Integer> subAns, int start, int end ){
+       int count = 0;
+       for(int i=start;i<end;i++){
+           int temp = nums[i];
+           if(nums[i]!=-100){
+              subAns.add(nums[i]);
+              nums[i] = -100;
+              permute(nums, ans, subAns, start, end);
+              if(subAns.size()>0)
+              subAns.remove(subAns.size()-1);
+               nums[i] = temp;
+           }
+           else{
+               count++;
+               if(count == nums.length)
+                   ans.add(List.copyOf(subAns));
+           }
+       }
 
-        }
     }
 }
