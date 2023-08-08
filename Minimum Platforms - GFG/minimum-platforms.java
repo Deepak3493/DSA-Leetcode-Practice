@@ -50,24 +50,24 @@ class Solution
         // add your code here
         Arrays.sort(arr);
         Arrays.sort(dep);
-        int count = 0;
-        int ans = 0;
-        int i = 0;
-        int j = 0;
+        int i=1;
+        int j=0;
+        int count = 1;
+        int ans = 1;
         while(i<n){
             if(arr[i]<=dep[j]){
-               count++;
-               ans = Math.max(ans,count);
-               i++;
-            }
-            else{
-               count--;
-               j++;
+                i++;
+                count++;
+                ans = Math.max(ans, count);
+            }else{
+                count--;
+                j++;
             }
         }
         return ans;
-        
     }
-    
 }
+
+//{0900, 0940, 0950, 1100, 1500, 1800}
+//{0910, 1120, 1130, 1200, 1900, 2000}
 
