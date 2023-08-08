@@ -48,37 +48,30 @@ class Solution
     int[] JobScheduling(Job arr[], int n)
     {
         // Your code here
-        Arrays.sort(arr,(a,b)->b.profit-a.profit);
-        int maxUnit = 0;
-        for(int i=0;i<n;i++){
-            maxUnit = Math.max(maxUnit, arr[i].deadline);
-        }
-        int ans[] = new int[maxUnit];
-        int profit = 0;
-        int jobs = 0;
-        for(int i=0;i<n;i++){
+        Arrays.sort(arr, (a,b)-> b.profit-a.profit);
+        boolean workCompletionArr [] = new boolean[n];
+        int i=0;
+        int maxProfit = 0;
+        int jobsCompleted = 0;
+        while(i<n){
             Job j = arr[i];
-            int k = j.deadline;
-            if(ans[k-1]== 0){
-                ans[k-1]= 1;
-                profit += j.profit;
-                jobs++;
+            int deadline = j.deadline;
+            deadline -=1;
+            while(deadline>=0 && workCompletionArr[deadline]){
+                deadline--;
             }
-            else{
-                while(k>0 && ans[k-1]==1){
-                    k--;
-                }
-                if(k!=0){
-                    ans[k-1]= 1;
-                    profit += j.profit;
-                    jobs++;
-                }
+            if(deadline>=0){
+                workCompletionArr[deadline] = true;
+                maxProfit+=j.profit;
+                jobsCompleted++;
             }
+            i++;
         }
-        int retAns [] = new int[2];
-        retAns[0] = jobs;
-        retAns[1] = profit;
-        return retAns;
+        int ans [] = new int[2];
+        ans[0] = jobsCompleted;
+        ans[1] = maxProfit;
+        return ans;
+        
     }
 }
 
