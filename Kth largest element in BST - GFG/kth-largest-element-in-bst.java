@@ -137,9 +137,6 @@ class Solution
             ans =  root.data;
         }
         c--;
-        if(c==0){
-            ans =  root.data;
-        }
         inorderOfTree(root.left);
          
     }
