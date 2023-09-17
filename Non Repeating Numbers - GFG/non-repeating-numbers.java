@@ -45,7 +45,7 @@ class Solution
             xor^=nums[i];
         }
         
-        int k = xor & (-(xor-1));
+        int k = xor & (~(xor-1));
        // System.out.println(xor+" "+k);
         int x = 0;
         int y = 0;
