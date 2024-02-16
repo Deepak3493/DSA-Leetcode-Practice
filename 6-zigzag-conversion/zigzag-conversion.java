@@ -2,7 +2,7 @@ class Solution {
     public String convert(String s, int numRows) {
         if(numRows ==1 )
           return s;
-        char[][] matrix = new char[numRows][1000];
+        char[][] matrix = new char[numRows][s.length()];
         int k = 0;
         int size = s.length();
         int l = numRows-2;
