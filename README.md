@@ -7,6 +7,7 @@ have fun - happy coding
 ## Array
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0303-range-sum-query-immutable](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0560-subarray-sum-equals-k) |
@@ -25,4 +26,12 @@ have fun - happy coding
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0303-range-sum-query-immutable) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
