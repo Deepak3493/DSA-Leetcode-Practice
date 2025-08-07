@@ -1,0 +1,49 @@
+class Solution {
+    public List<List<Integer>> threeSum(int[] nums) {
+        Arrays.sort(nums);
+        List<List<Integer>> ans = new ArrayList<>();
+        HashSet<Integer> lookup = new HashSet<>();
+        for(int i = 0;i<nums.length;i++){
+            int num = nums[i];
+            if(lookup.contains(num))
+                  continue;
+            twoSum(nums, i+1, nums.length-1, num, ans);
+            lookup.add(num);
+        }
+        return ans;
+    }
+    public static void twoSum(int nums[], int start, int end, int firstVal,
+    List<List<Integer>> ans){
+        int leftSum = - firstVal;
+        HashSet<Integer> lookup = new HashSet<>();
+        while(start<end){
+            int a = nums[start];
+            int b = nums[end];
+            int sum = a+b;
+            if(sum == leftSum && !lookup.contains(a)){
+                List<Integer> subAns = new ArrayList<>();
+                subAns.add(firstVal);
+                subAns.add(a);
+                subAns.add(b);
+                ans.add(subAns);
+                if(a==b)
+                    lookup.add(a);
+                
+                while(start<end && nums[start]==nums[start+1]){
+                    start++;
+                }
+                while(end>start && nums[end]==nums[end-1]){
+                    end--;
+                }
+                start++;
+                end--;
+            }
+            else if(sum > leftSum){
+                end--;
+            }
+            else{
+                start++;
+            }
+        }
+    }
+}
