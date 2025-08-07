@@ -26,8 +26,8 @@ class Solution {
                 subAns.add(a);
                 subAns.add(b);
                 ans.add(subAns);
-                if(a==b)
-                    lookup.add(a);
+                // if(a==b)
+                //     lookup.add(a);
                 
                 while(start<end && nums[start]==nums[start+1]){
                     start++;
