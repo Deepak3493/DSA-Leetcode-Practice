@@ -15,20 +15,16 @@ class Solution {
     public static void twoSum(int nums[], int start, int end, int firstVal,
     List<List<Integer>> ans){
         int leftSum = - firstVal;
-        HashSet<Integer> lookup = new HashSet<>();
         while(start<end){
             int a = nums[start];
             int b = nums[end];
             int sum = a+b;
-            if(sum == leftSum && !lookup.contains(a)){
+            if(sum == leftSum){
                 List<Integer> subAns = new ArrayList<>();
                 subAns.add(firstVal);
                 subAns.add(a);
                 subAns.add(b);
                 ans.add(subAns);
-                // if(a==b)
-                //     lookup.add(a);
-                
                 while(start<end && nums[start]==nums[start+1]){
                     start++;
                 }
