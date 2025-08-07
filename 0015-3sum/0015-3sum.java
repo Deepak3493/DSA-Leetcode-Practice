@@ -2,13 +2,11 @@ class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
         Arrays.sort(nums);
         List<List<Integer>> ans = new ArrayList<>();
-        HashSet<Integer> lookup = new HashSet<>();
         for(int i = 0;i<nums.length;i++){
             int num = nums[i];
-            if(lookup.contains(num))
+            if(i>0 && nums[i]==nums[i-1])
                   continue;
             twoSum(nums, i+1, nums.length-1, num, ans);
-            lookup.add(num);
         }
         return ans;
     }
