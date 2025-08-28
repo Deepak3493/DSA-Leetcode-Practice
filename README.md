@@ -12,6 +12,7 @@ have fun - happy coding
 | [0015-3sum](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0015-3sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0217-contains-duplicate](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0560-subarray-sum-equals-k) |
@@ -19,6 +20,7 @@ have fun - happy coding
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0217-contains-duplicate) |
 | [0525-contiguous-array](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
@@ -49,6 +51,7 @@ have fun - happy coding
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0015-3sum) |
+| [0217-contains-duplicate](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
 |  |
 | ------- |
