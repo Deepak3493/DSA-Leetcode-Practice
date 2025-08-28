@@ -3,8 +3,9 @@ class Solution {
         int min = prices[0];
         int ans = 0;
         for(int price:prices){
-            if(price-min>ans){
-                ans = price-min;
+            int k = price-min;
+            if(k>ans){
+                ans = k;
             }
             if(price<min){
                 min = price;
