@@ -16,6 +16,7 @@ have fun - happy coding
 | [0152-maximum-product-subarray](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0200-number-of-islands](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0238-product-of-array-except-self) |
@@ -98,17 +99,24 @@ have fun - happy coding
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0547-number-of-provinces) |
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0547-number-of-provinces) |
 ## Graph
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0547-number-of-provinces) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
