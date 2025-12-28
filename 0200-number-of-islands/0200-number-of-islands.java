@@ -26,7 +26,6 @@ class Solution {
             int x = dx[i]+row;
             int y = dy[i]+col;
             if(x>=0 && y>=0 && x<grid.length && y<grid[0].length && visited[x][y] == false && (grid[x][y]=='1')){
-                visited[x][y] = true;
                 dfs(x, y , visited, grid);
             }
         }
