@@ -29,12 +29,14 @@ class Solution {
 
     }
     public static ListNode reverse(ListNode head){
-        if(head ==null || head.next == null)
-             return head;
-        ListNode head1 = reverse(head.next);
-        
-        head.next.next = head;
-        head.next = null;
-        return head1;
+        ListNode prev = null;
+        ListNode next = head;
+        while(next!=null){
+            ListNode temp = next.next;
+            next.next = prev;
+            prev = next;
+            next = temp;
+        }
+        return prev;
     }
 }
