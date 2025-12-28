@@ -1,6 +1,5 @@
 class Solution {
     public int numIslands(char[][] grid) {
-        
         int rows = grid.length;
         int columns = grid[0].length;
         int count = 0;
@@ -11,7 +10,7 @@ class Solution {
             {
                 
                 if(visited[i][j]==false && grid[i][j]=='1'){
-                    dfs(i,j, visited, grid);
+                    bfs(i,j, visited, grid);
                     count++;
                 }
             }
@@ -30,4 +29,38 @@ class Solution {
             }
         }
     }
+    
+    public void bfs(int row, int col, boolean visited[][], char[][] grid)
+    {
+        Queue<Pair<Integer,Integer>> q = new LinkedList<>();
+        visited[row][col]= true;
+        q.add(new Pair(row, col));
+        while(q.size()>0){
+           int size = q.size();
+           for(int i=0;i<size;i++){
+              Pair p = q.poll();
+              Integer x = (Integer) p.getKey();
+              Integer y = (Integer) p.getValue();
+              visited[x][y]= true;
+              if(x+1<grid.length && visited[x+1][y]==false && grid[x+1][y] == '1'){
+                visited[x+1][y]= true;
+                q.add(new Pair(x+1,y));
+              }
+              if(y+1<grid[0].length && visited[x][y+1]==false && grid[x][y+1] == '1'){
+                 visited[x][y+1]= true;
+                q.add(new Pair(x,y+1));
+              }
+              if(y-1>=0 && visited[x][y-1]==false && grid[x][y-1] == '1'){
+                 visited[x][y-1]= true;
+                q.add(new Pair(x,y-1));
+              }
+              if(x-1>=0 && visited[x-1][y]==false && grid[x-1][y] == '1'){
+                 visited[x-1][y]= true;
+                q.add(new Pair(x-1,y));
+              }
+           }
+        }
+            
+    }
+
 }
