@@ -15,9 +15,7 @@ class Solution {
         for(int i=0;i<4;i++){
             int x = sr+dx[i];
             int y = sc+dy[i];
-            if(x>=0 && y>=0 && x<image.length && y<image[0].length && visited[x][y] == false && image[x][y]== startcolor){    
-                visited[x][y] = true;
-                image [x][y] = color;
+            if(x>=0 && y>=0 && x<image.length && y<image[0].length && visited[x][y] == false && image[x][y]== startcolor){
                 dfs(x,y,visited, color, startcolor, image);
             }
         }
