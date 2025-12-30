@@ -5,18 +5,14 @@ class Solution {
         while(start<end){
             int sum = numbers[start]+numbers[end];
             if(sum == target){
-                int ans[] = new int[2];
-                ans[0] = start+1;
-                ans[1] = end+1;
-                return ans;
+                break;
+
             }
-            else if(sum>target){
-                end--;
-            }
-            else{
+            else if(sum<target){
                 start++;
             }
+            else{end--;}
         }
-        return new int[2];
+        return new int[]{start+1,end+1};
     }
 }
