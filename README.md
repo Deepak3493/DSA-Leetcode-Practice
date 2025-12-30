@@ -37,6 +37,7 @@ have fun - happy coding
 | [0219-contains-duplicate-ii](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0525-contiguous-array](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0567-permutation-in-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -57,6 +58,7 @@ have fun - happy coding
 | [0142-linked-list-cycle-ii](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0234-palindrome-linked-list) |
+| [0567-permutation-in-string](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0567-permutation-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -87,6 +89,7 @@ have fun - happy coding
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0219-contains-duplicate-ii) |
+| [0567-permutation-in-string](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0643-maximum-average-subarray-i) |
 ## Divide and Conquer
 |  |
@@ -105,6 +108,7 @@ have fun - happy coding
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0516-longest-palindromic-subsequence](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0516-longest-palindromic-subsequence) |
+| [0567-permutation-in-string](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0567-permutation-in-string) |
 | [1143-longest-common-subsequence](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/1143-longest-common-subsequence) |
 ## Depth-First Search
 |  |
