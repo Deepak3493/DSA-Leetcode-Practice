@@ -22,6 +22,7 @@ have fun - happy coding
 | [0217-contains-duplicate](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0525-contiguous-array) |
@@ -38,6 +39,7 @@ have fun - happy coding
 | [0142-linked-list-cycle-ii](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0268-missing-number) |
 | [0525-contiguous-array](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0567-permutation-in-string) |
@@ -72,6 +74,7 @@ have fun - happy coding
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
 |  |
@@ -83,6 +86,7 @@ have fun - happy coding
 | [0015-3sum](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -108,6 +112,7 @@ have fun - happy coding
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0268-missing-number) |
 ## Memoization
 |  |
 | ------- |
@@ -163,5 +168,6 @@ have fun - happy coding
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
