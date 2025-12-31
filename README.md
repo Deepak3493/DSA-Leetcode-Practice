@@ -24,6 +24,7 @@ have fun - happy coding
 | [0217-contains-duplicate](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0238-product-of-array-except-self) |
+| [0260-single-number-iii](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0303-range-sum-query-immutable) |
@@ -176,6 +177,7 @@ have fun - happy coding
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0136-single-number) |
+| [0260-single-number-iii](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
