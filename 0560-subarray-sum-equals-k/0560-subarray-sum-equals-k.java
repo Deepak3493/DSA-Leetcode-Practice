@@ -1,16 +1,18 @@
 class Solution {
     public int subarraySum(int[] nums, int k) {
-       HashMap<Integer, Integer> mp = new HashMap<>();
-       int sum = 0;
-       mp.put(0,1);
-       int countOfSumKSubArrays = 0;
-       for(int i=0;i<nums.length;i++){
-          sum = sum+nums[i];
-          if(mp.containsKey(sum-k)){
-           countOfSumKSubArrays += mp.get(sum-k);
-          }
-          mp.put(sum, mp.getOrDefault(sum,0)+1);
-       }
-       return countOfSumKSubArrays;
+        int prefixSum = 0;
+        int ans = 0;
+        Map<Integer,Integer> mp = new HashMap<>();
+        for(int i = 0;i<nums.length;i++){
+            prefixSum+=nums[i];
+            if(prefixSum == k){
+                ans+=1;
+            }
+            if(mp.containsKey(prefixSum-k)){
+                ans+=mp.get(prefixSum-k);
+            }
+            mp.put(prefixSum,mp.getOrDefault(prefixSum,0)+1);
+        }
+        return ans;
     }
 }
