@@ -12,6 +12,7 @@ have fun - happy coding
 | [0015-3sum](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -67,6 +68,7 @@ have fun - happy coding
 | ------- |
 | [0011-container-with-most-water](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -96,6 +98,7 @@ have fun - happy coding
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -167,6 +170,7 @@ have fun - happy coding
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
@@ -180,4 +184,8 @@ have fun - happy coding
 | [0260-single-number-iii](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0287-find-the-duplicate-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
