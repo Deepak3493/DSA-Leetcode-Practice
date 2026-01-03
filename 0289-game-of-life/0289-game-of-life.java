@@ -33,7 +33,6 @@ class Solution {
                     count++;
                 }
                 
-                System.out.println("Cell at i,j "+ i +" "+ j +" "+ board[i][j] +" have count "+count);
 
                 if(k==1 && (count == 2 || count == 3 )){
                     board[i][j] = 1;
