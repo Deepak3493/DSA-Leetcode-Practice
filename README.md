@@ -17,6 +17,7 @@ have fun - happy coding
 | [0053-maximum-subarray](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0057-insert-interval) |
+| [0073-set-matrix-zeroes](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0136-single-number) |
@@ -45,6 +46,7 @@ have fun - happy coding
 | [0001-two-sum](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0219-contains-duplicate-ii) |
@@ -164,6 +166,7 @@ have fun - happy coding
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0994-rotting-oranges) |
