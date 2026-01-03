@@ -15,6 +15,7 @@ have fun - happy coding
 | [0042-trapping-rain-water](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
@@ -173,6 +174,7 @@ have fun - happy coding
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0733-flood-fill) |
@@ -204,4 +206,8 @@ have fun - happy coding
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0042-trapping-rain-water) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
