@@ -52,6 +52,7 @@ have fun - happy coding
 | [0041-first-missing-positive](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0268-missing-number) |
@@ -71,6 +72,7 @@ have fun - happy coding
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0146-lru-cache) |
 | [0303-range-sum-query-immutable](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0303-range-sum-query-immutable) |
 ## Two Pointers
 |  |
@@ -185,6 +187,7 @@ have fun - happy coding
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0234-palindrome-linked-list) |
 ## Stack
@@ -213,4 +216,8 @@ have fun - happy coding
 | ------- |
 | [0054-spiral-matrix](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0289-game-of-life) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
