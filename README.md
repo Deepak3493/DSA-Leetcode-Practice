@@ -33,6 +33,7 @@ have fun - happy coding
 | [0268-missing-number](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0303-range-sum-query-immutable) |
+| [0435-non-overlapping-intervals](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0525-contiguous-array](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0525-contiguous-array) |
@@ -94,6 +95,7 @@ have fun - happy coding
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0011-container-with-most-water) |
+| [0435-non-overlapping-intervals](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Sorting
 |  |
@@ -103,6 +105,7 @@ have fun - happy coding
 | [0075-sort-colors](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0268-missing-number) |
+| [0435-non-overlapping-intervals](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Dynamic Programming
 |  |
@@ -112,6 +115,7 @@ have fun - happy coding
 | [0070-climbing-stairs](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0152-maximum-product-subarray) |
+| [0435-non-overlapping-intervals](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0516-longest-palindromic-subsequence](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/1143-longest-common-subsequence) |
 ## Sliding Window
