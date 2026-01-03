@@ -13,6 +13,7 @@ have fun - happy coding
 | [0033-search-in-rotated-sorted-array](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0057-insert-interval) |
@@ -123,6 +124,7 @@ have fun - happy coding
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0268-missing-number) |
 ## Memoization
@@ -161,6 +163,7 @@ have fun - happy coding
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0994-rotting-oranges) |
