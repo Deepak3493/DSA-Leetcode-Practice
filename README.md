@@ -45,6 +45,7 @@ have fun - happy coding
 | [0724-find-pivot-index](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0994-rotting-oranges) |
+| [1004-max-consecutive-ones-iii](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,6 +71,7 @@ have fun - happy coding
 | [0525-contiguous-array](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/1004-max-consecutive-ones-iii) |
 ## Design
 |  |
 | ------- |
@@ -97,6 +99,7 @@ have fun - happy coding
 | [0268-missing-number](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0300-longest-increasing-subsequence) |
+| [1004-max-consecutive-ones-iii](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/1004-max-consecutive-ones-iii) |
 ## Greedy
 |  |
 | ------- |
@@ -133,6 +136,7 @@ have fun - happy coding
 | [0219-contains-duplicate-ii](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/1004-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
