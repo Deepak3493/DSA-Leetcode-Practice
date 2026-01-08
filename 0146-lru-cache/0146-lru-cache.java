@@ -19,10 +19,8 @@ class LRUCache {
         if(mp.containsKey(key)){
             Node node = mp.get(key);
             val = node.val;
-            //if(mp.size()>1)
             insertAfterHead(node);
         }
-    
         return val; 
     }
     
@@ -68,8 +66,8 @@ class LRUCache {
     }
 
     public void deleteNodeFromTail(){ 
-        if(head.next.val == tail.val)
-           return;
+        // if(head.next.val == tail.val)
+        //    return;
         mp.remove(tail.prev.key);
         Node prev = tail.prev.prev;
         prev.next = tail;
