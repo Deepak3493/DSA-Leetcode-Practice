@@ -31,11 +31,8 @@ class Solution {
                     pq.add(new Pair<>(num, mp.get(num)));
                 }
             }
-                    //System.out.println(pq.toString());
-
             i++;
         }
-        // System.out.println(pq.toString());
         int ans [] = new int[k];
         for(i=0;i<k;i++){
             ans[i] = pq.poll().getKey();
