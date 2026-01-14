@@ -6,20 +6,20 @@ class Solution {
             for(int j=0;j<board[0].length;j++){
                 char ch = board[i][j];
                 if(ch == startChar){
-                    if(dfs(board, word.substring(1), i, j, visited))
+                    if(dfs(board, word, 1 , i, j, visited))
                            return true;
                 }
             }
         }
         return false;
     }
-    public static boolean dfs(char[][] board, String word, int x , int y, boolean visited[][]){
+    public static boolean dfs(char[][] board, String word,int stringIndex, int x , int y, boolean visited[][]){
         //System.out.println(word);
-        if(word.length()==0){
+        if(word.length()==stringIndex){
             return true;
         }
         visited[x][y] = true;
-        char ch = word.charAt(0);
+        char ch = word.charAt(stringIndex);
         int dx [] = {1,0,0,-1};
         int dy [] = {0,1,-1,0};
         boolean ans = false;
@@ -27,9 +27,7 @@ class Solution {
             int xx = x+dx[i];
             int yy = y+dy[i];
             if(xx>=0 & xx<board.length && yy>=0 && yy<board[0].length && ch == board[xx][yy] && visited[xx][yy]==false){
-                //visited[xx][yy] = true;
-                ans = ans || dfs(board, word.substring(1), xx, yy, visited);
-               // visited[xx][yy] = false;
+                ans = ans || dfs(board, word,stringIndex+1, xx, yy, visited);
             }
         }
         visited[x][y] = false;
