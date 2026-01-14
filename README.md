@@ -20,6 +20,7 @@ have fun - happy coding
 | [0057-insert-interval](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0152-maximum-product-subarray) |
@@ -162,12 +163,14 @@ have fun - happy coding
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0079-word-search](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0079-word-search) |
 | [0516-longest-palindromic-subsequence](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0567-permutation-in-string) |
 | [1143-longest-common-subsequence](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/1143-longest-common-subsequence) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0733-flood-fill) |
@@ -193,6 +196,7 @@ have fun - happy coding
 | [0048-rotate-image](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0289-game-of-life) |
 | [0733-flood-fill](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0733-flood-fill) |
@@ -252,4 +256,8 @@ have fun - happy coding
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
