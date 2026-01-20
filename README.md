@@ -32,6 +32,7 @@ have fun - happy coding
 | [0217-contains-duplicate](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0287-find-the-duplicate-number) |
@@ -140,6 +141,7 @@ have fun - happy coding
 | [0003-longest-substring-without-repeating-characters](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/1004-max-consecutive-ones-iii) |
@@ -242,6 +244,7 @@ have fun - happy coding
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -260,4 +263,12 @@ have fun - happy coding
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0079-word-search) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
