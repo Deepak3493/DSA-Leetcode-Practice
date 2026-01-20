@@ -1,43 +1,25 @@
 class Solution {
-    // static class Pair{
-    //     int 
-    // }
     public int[] topKFrequent(int[] nums, int k) {
-        HashMap<Integer,Integer> mp = new HashMap<>();
-        int max = 0;
-        for(int i=0;i<nums.length;i++){
+        Map<Integer, Integer> mp = new HashMap<>();
+        for(int i =0;i<nums.length;i++){
             int num = nums[i];
-            if(mp.containsKey(num)){
-                int count = mp.get(num);
-                max = Math.max(count+1,max);
-                mp.put(num, count+1);
-            }
-            else{
-                mp.put(num,1);
-            }
+            mp.put(num, mp.getOrDefault(num,0)+1);
         }
-
-        PriorityQueue<Pair<Integer, Integer>> pq = new PriorityQueue<>(
-            (a, b) -> a.getValue() - b.getValue()
+        PriorityQueue<Integer> pq = new PriorityQueue<Integer>(
+            (n1,n2) -> mp.get(n1) - mp.get(n2)
         );
-        int i = 0;
-        for(int num :mp.keySet()){
-            if(i<k){
-                pq.add(new Pair<>(num, mp.get(num)));
+
+        for(int key: mp.keySet()){
+            pq.add(key);
+            if(pq.size()>k){
+                pq.poll();
             }
-            else{
-                if(pq.peek().getValue()<mp.get(num)){
-                    pq.poll();
-                    pq.add(new Pair<>(num, mp.get(num)));
-                }
-            }
-            i++;
         }
-        int ans [] = new int[k];
-        for(i=0;i<k;i++){
-            ans[i] = pq.poll().getKey();
+        int result [] = new int[k];
+        for(int i=0;i<k;i++){
+            result[i] = pq.poll();
         }
-        return ans;
-    
+        return result;
+
     }
 }
