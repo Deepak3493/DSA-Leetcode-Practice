@@ -274,13 +274,16 @@ have fun - happy coding
 ## Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
