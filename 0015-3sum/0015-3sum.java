@@ -23,27 +23,23 @@ class Solution {
                 subans.add(a);
                 subans.add(b);
                 ans.add(subans);
-                if(a == b){
-                    return;
-                }
-                if(nums[start] ==nums[start+1]){
+                // if(a == b){
+                //     return;
+                
+          
                     while(start<end &&  nums[start] ==nums[start+1]){
                         start++;
                     }
-                    start++;
-                }
-                else{
-                    start++;
-                }
-                if(nums[end] ==nums[end-1]){
+                
+            
+                start++;
+                
+               
                     while(start<end && nums[end] ==nums[end-1]){
                         end--;
                     }
+                
                     end--;
-                }
-                else{
-                    end--;
-                }
             }
             else if(sum>target){
                 end--;
