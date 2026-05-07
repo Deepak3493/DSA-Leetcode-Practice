@@ -23,23 +23,14 @@ class Solution {
                 subans.add(a);
                 subans.add(b);
                 ans.add(subans);
-                // if(a == b){
-                //     return;
-                
-          
-                    while(start<end &&  nums[start] ==nums[start+1]){
-                        start++;
-                    }
-                
-            
+                while(start<end &&  nums[start] ==nums[start+1]){
+                    start++;
+                }
                 start++;
-                
-               
-                    while(start<end && nums[end] ==nums[end-1]){
+                while(start<end && nums[end] ==nums[end-1]){
                         end--;
-                    }
-                
-                    end--;
+                }
+                end--;
             }
             else if(sum>target){
                 end--;
