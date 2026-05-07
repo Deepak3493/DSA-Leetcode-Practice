@@ -1,38 +1,51 @@
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
-        Arrays.sort(nums);
         List<List<Integer>> ans = new ArrayList<>();
-        for(int i = 0;i<nums.length;i++){
-            int num = nums[i];
-            if(i>0 && nums[i]==nums[i-1])
-                  continue;
-            twoSum(nums, i+1, nums.length-1, num, ans);
+        Arrays.sort(nums);
+        for(int i=0;i<nums.length;i++){
+            int k = nums[i];
+            if(i>0  && nums[i] == nums[i-1]){
+                continue;
+            }
+            findPair(nums, i+1, -k, ans);
         }
         return ans;
     }
-    public static void twoSum(int nums[], int start, int end, int firstVal,
-    List<List<Integer>> ans){
-        int leftSum = - firstVal;
+    public void findPair(int nums[], int start, int target,  List<List<Integer>> ans){
+        int end = nums.length-1;
         while(start<end){
             int a = nums[start];
             int b = nums[end];
             int sum = a+b;
-            if(sum == leftSum){
-                List<Integer> subAns = new ArrayList<>();
-                subAns.add(firstVal);
-                subAns.add(a);
-                subAns.add(b);
-                ans.add(subAns);
-                while(start<end && nums[start]==nums[start+1]){
+            if(sum == target){
+                List<Integer> subans = new ArrayList<>();
+                subans.add(-target);
+                subans.add(a);
+                subans.add(b);
+                ans.add(subans);
+                if(a == b){
+                    return;
+                }
+                if(nums[start] ==nums[start+1]){
+                    while(start<end &&  nums[start] ==nums[start+1]){
+                        start++;
+                    }
                     start++;
                 }
-                while(end>start && nums[end]==nums[end-1]){
+                else{
+                    start++;
+                }
+                if(nums[end] ==nums[end-1]){
+                    while(start<end && nums[end] ==nums[end-1]){
+                        end--;
+                    }
                     end--;
                 }
-                start++;
-                end--;
+                else{
+                    end--;
+                }
             }
-            else if(sum > leftSum){
+            else if(sum>target){
                 end--;
             }
             else{
