@@ -35,6 +35,7 @@ have fun - happy coding
 | [0239-sliding-window-maximum](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0300-longest-increasing-subsequence) |
@@ -92,6 +93,7 @@ have fun - happy coding
 | [0142-linked-list-cycle-ii](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0567-permutation-in-string) |
 ## Binary Search
