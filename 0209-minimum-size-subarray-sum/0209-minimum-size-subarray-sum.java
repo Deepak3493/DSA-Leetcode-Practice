@@ -7,14 +7,14 @@ class Solution {
         while(j<nums.length){
             int k = nums[j];
             sum+=k;
-            while(sum>target){
+            while(sum>=target){
                 ans = Math.min(ans, j-i+1);
                 sum -= nums[i];
                 i++;
             }
-            if(sum == target){
-                 ans = Math.min(ans, j-i+1);
-            }
+            // if(sum == target){
+            //      ans = Math.min(ans, j-i+1);
+            // }
           
             //System.out.println(i+" "+j+" "+sum+" "+ans);
             j++;
