@@ -27,8 +27,6 @@ class Solution {
 
             if(j-i+1==k)
                ans = Math.max(sum, ans);
-        
-            //System.out.println(i+" "+j+" "+sum+" "+ans);
             j++;
         }
         return ans;
