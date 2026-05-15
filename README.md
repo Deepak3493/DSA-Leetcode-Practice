@@ -48,6 +48,7 @@ have fun - happy coding
 | [0525-contiguous-array](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0643-maximum-average-subarray-i) |
+| [0713-subarray-product-less-than-k](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0733-flood-fill) |
 | [0904-fruit-into-baskets](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0904-fruit-into-baskets) |
@@ -81,6 +82,7 @@ have fun - happy coding
 | [0303-range-sum-query-immutable](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0560-subarray-sum-equals-k) |
+| [0713-subarray-product-less-than-k](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/1004-max-consecutive-ones-iii) |
 ## Design
@@ -111,6 +113,7 @@ have fun - happy coding
 | [0268-missing-number](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0300-longest-increasing-subsequence) |
+| [0713-subarray-product-less-than-k](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/1004-max-consecutive-ones-iii) |
 ## Greedy
 |  |
@@ -151,6 +154,7 @@ have fun - happy coding
 | [0239-sliding-window-maximum](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0643-maximum-average-subarray-i) |
+| [0713-subarray-product-less-than-k](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
