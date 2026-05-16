@@ -1,25 +1,25 @@
 class Solution {
-    public int totalFruit(int[] nums) {
-        int ans = 0;
-        int i =0;int j =0;
+    public int totalFruit(int[] fruits) {
         HashMap<Integer,Integer> mp = new HashMap<>();
-        while(j<nums.length){
-            int k = nums[j];
-            mp.put(k,mp.getOrDefault(k,0)+1);
-            while(mp.size()>2 && i<j){
-                k = nums[i];
-                if(mp.containsKey(k)){
-                    if(mp.get(k)==1){
+        int ans = 1;
+        int j=0;
+        for(int i=0;i<fruits.length;i++){
+            mp.put(fruits[i],mp.getOrDefault(fruits[i],0)+1);
+            while(mp.size()>2 && j<=i){
+                 int k = fruits[j];
+                 if(mp.containsKey(k)){
+                    mp.put(k, mp.get(k)-1);
+                    if(mp.get(k)==0){
                         mp.remove(k);
                     }
-                    else{
-                        mp.put(k, mp.get(k)-1);
-                    }
-                }
-                i++;
+                 }
+                 j++;
             }
-            ans = Math.max(ans, j-i+1);
-            j++;
+            int sum =0;
+            for(int l:mp.values()){
+                sum+=l;
+            }
+            ans = Math.max(ans, sum);
         }
         return ans;
     }
