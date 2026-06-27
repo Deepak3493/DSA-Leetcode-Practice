@@ -46,6 +46,7 @@ have fun - happy coding
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0485-max-consecutive-ones](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0643-maximum-average-subarray-i) |
@@ -235,6 +236,7 @@ have fun - happy coding
 | [0155-min-stack](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0503-next-greater-element-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -252,6 +254,7 @@ have fun - happy coding
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0503-next-greater-element-ii) |
 ## Simulation
 |  |
 | ------- |
