@@ -89,6 +89,7 @@ have fun - happy coding
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0303-range-sum-query-immutable) |
 ## Two Pointers
 |  |
@@ -229,6 +230,7 @@ have fun - happy coding
 | ------- |
 | [0020-valid-parentheses](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
