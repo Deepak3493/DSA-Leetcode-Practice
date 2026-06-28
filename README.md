@@ -54,6 +54,7 @@ have fun - happy coding
 | [0713-subarray-product-less-than-k](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0904-fruit-into-baskets) |
 | [0994-rotting-oranges](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/1004-max-consecutive-ones-iii) |
@@ -240,6 +241,7 @@ have fun - happy coding
 | [0234-palindrome-linked-list](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0739-daily-temperatures) |
 ## Recursion
 |  |
 | ------- |
@@ -258,6 +260,7 @@ have fun - happy coding
 | [0042-trapping-rain-water](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0739-daily-temperatures) |
 ## Simulation
 |  |
 | ------- |
