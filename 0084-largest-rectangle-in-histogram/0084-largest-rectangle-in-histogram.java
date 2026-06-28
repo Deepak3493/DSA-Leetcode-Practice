@@ -10,8 +10,8 @@ class Solution {
         for(int i=0;i<heights.length;i++){
             int height = heights[i];
             int areaToBe = heights[i] * (nse[i]-pse[i]-1);
-            System.out.println(i+" "+height+" "
-                     +nse[i]+" "+ pse[i]+ " " + areaToBe);
+            // System.out.println(i+" "+height+" "
+            //          +nse[i]+" "+ pse[i]+ " " + areaToBe);
             area = Math.max(area, areaToBe);
         }
         return area;
