@@ -97,6 +97,7 @@ have fun - happy coding
 | [0146-lru-cache](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0303-range-sum-query-immutable) |
+| [0901-online-stock-span](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0901-online-stock-span) |
 ## Two Pointers
 |  |
 | ------- |
@@ -244,6 +245,7 @@ have fun - happy coding
 | [0496-next-greater-element-i](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0901-online-stock-span) |
 ## Recursion
 |  |
 | ------- |
@@ -264,6 +266,7 @@ have fun - happy coding
 | [0496-next-greater-element-i](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0901-online-stock-span) |
 ## Simulation
 |  |
 | ------- |
@@ -319,4 +322,8 @@ have fun - happy coding
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0701-insert-into-a-binary-search-tree) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
