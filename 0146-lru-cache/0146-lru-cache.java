@@ -13,13 +13,10 @@ class LRUCache {
     
     public int get(int key) {
         if(mp.containsKey(key)){
-           Node node = mp.get(key);
-           if(mp.size()>1){
-               // remove from curr pos;
-               removeNode(node);
-               insertAfterHead(node);
-           }
-           return node.val;
+            Node node = mp.get(key);
+            removeNode(node);
+            insertAfterHead(node);
+            return node.val;
         }
         return -1;
         
