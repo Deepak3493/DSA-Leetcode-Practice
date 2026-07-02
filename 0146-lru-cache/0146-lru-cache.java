@@ -14,26 +14,30 @@ class LRUCache {
     public int get(int key) {
         if(mp.containsKey(key)){
            Node node = mp.get(key);
-           Node temp = head;
            if(mp.size()>1){
                // remove from curr pos;
-               Node next = node.next;
-               Node prev = node.prev;
-               prev.next = next;
-               next.prev = prev;
-
-               // add in the begining
-               next = head.next;
-               node.next = next;
-               next.prev = node;
-               head.next = node;
-               node.prev = head;
+               removeNode(node);
+               insertAfterHead(node);
            }
            return node.val;
         }
         return -1;
         
     }
+    private void removeNode(Node node) {
+        Node next = node.next;
+        Node prev = node.prev;
+        prev.next = next;
+        next.prev = prev;
+    }
+    private void insertAfterHead(Node node) {
+        Node next = head.next;
+        node.next = next;
+        next.prev = node;
+        head.next = node;
+        node.prev = head;
+    }
+
     
     public void put(int key, int value) {
         // if already exists
@@ -41,24 +45,18 @@ class LRUCache {
             Node node = mp.get(key);
             node.val = value;
             mp.put(key,node);
-            get(key);
+            removeNode(node);
+            insertAfterHead(node);
         }
         else{
             int size = mp.size();
             Node node = new Node(key, value);
             if(size>=capacity){
                 Node tailfirstPrev = tail.prev;
-                Node secondprev = tailfirstPrev.prev;
-                secondprev.next = tail;
-                tail.prev = secondprev;
+                removeNode(tailfirstPrev);
                 mp.remove(tailfirstPrev.key);
             }
-
-            Node next = head.next;
-            head.next = node;
-            node.next = next;
-            next.prev = node;
-            node.prev = head;
+            insertAfterHead(node);
             mp.put(key,node);
         }
     }
