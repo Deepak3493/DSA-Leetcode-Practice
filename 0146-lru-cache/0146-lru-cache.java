@@ -1,92 +1,80 @@
 class LRUCache {
+    Node head ;
+    Node tail;
+    HashMap<Integer,Node> mp = new HashMap<>();
     int capacity;
-    Map<Integer,Node> mp;
-    Node head = new Node(-1,-1);
-    Node tail = new Node(-1,-1);
     public LRUCache(int capacity) {
         this.capacity = capacity;
-        mp = new HashMap<>();
+        head = new Node(-1,-1);
+        tail = new Node(-1,-1);
         head.next = tail;
         tail.prev = head;
     }
     
     public int get(int key) {
-        int valueTobeReturned = -1;
         if(mp.containsKey(key)){
            Node node = mp.get(key);
-           valueTobeReturned = node.val;
-           insertAfterHead(node);
+           Node temp = head;
+           if(mp.size()>1){
+               // remove from curr pos;
+               Node next = node.next;
+               Node prev = node.prev;
+               prev.next = next;
+               next.prev = prev;
+
+               // add in the begining
+               next = head.next;
+               node.next = next;
+               next.prev = node;
+               head.next = node;
+               node.prev = head;
+           }
+           return node.val;
         }
-        return valueTobeReturned;
+        return -1;
+        
     }
     
     public void put(int key, int value) {
-        if(mp.size() >= capacity){
-            if(mp.size() == capacity){
-            if(mp.containsKey(key)){
-            Node node = mp.get(key);
-            node.val = value;
-            insertAfterHead(node);
-            return;
-        }
-            }
-            deleteBeforeTail();
-        }
+        // if already exists
         if(mp.containsKey(key)){
             Node node = mp.get(key);
             node.val = value;
-            insertAfterHead(node);
-            return;
+            mp.put(key,node);
+            get(key);
         }
-        Node node = new Node(key,value);
-        insertAfterHead(node);
-    }
-
-    public void insertAfterHead(Node node){
-            if(mp.containsKey(node.key)){
-                node  = mp.get(node.key);
-                Node prev = node.prev;
-                Node next = node.next;
-                prev.next = next;
-                next.prev = prev;
-                Node headsnext = head.next;
-                head.next = node;
-                node.prev = head;
-                node.next = headsnext;
-                headsnext.prev = node;
+        else{
+            int size = mp.size();
+            Node node = new Node(key, value);
+            if(size>=capacity){
+                Node tailfirstPrev = tail.prev;
+                Node secondprev = tailfirstPrev.prev;
+                secondprev.next = tail;
+                tail.prev = secondprev;
+                mp.remove(tailfirstPrev.key);
             }
-            else{
-                mp.put(node.key,node);
-                Node headsnext = head.next;
-                head.next = node;
-                node.prev = head;
-                node.next = headsnext;
-                headsnext.prev = node;
-            }
-    }
 
-    public void deleteBeforeTail(){
-           Node previous = tail.prev;
-           Node x = previous.prev;
-           x.next = tail;
-           tail.prev = x;
-           mp.remove(previous.key);
+            Node next = head.next;
+            head.next = node;
+            node.next = next;
+            next.prev = node;
+            node.prev = head;
+            mp.put(key,node);
+        }
     }
-
 
 
     static class Node{
         int key;
         int val;
-        Node prev;
         Node next;
+        Node prev;
         Node(int key, int val){
             this.key = key;
             this.val = val;
         }
     }
 }
-
 
 /**
  * Your LRUCache object will be instantiated and called as such:
