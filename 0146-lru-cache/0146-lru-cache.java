@@ -41,7 +41,6 @@ class LRUCache {
         if(mp.containsKey(key)){
             Node node = mp.get(key);
             node.val = value;
-            mp.put(key,node);
             removeNode(node);
             insertAfterHead(node);
         }
