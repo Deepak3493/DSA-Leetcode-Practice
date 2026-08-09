@@ -24,6 +24,7 @@ have fun - happy coding
 | [0079-word-search](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0152-maximum-product-subarray) |
@@ -69,6 +70,7 @@ have fun - happy coding
 | [0003-longest-substring-without-repeating-characters](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0217-contains-duplicate) |
@@ -335,4 +337,8 @@ have fun - happy coding
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0901-online-stock-span) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
