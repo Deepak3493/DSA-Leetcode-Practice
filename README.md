@@ -108,6 +108,7 @@ have fun - happy coding
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0042-trapping-rain-water) |
@@ -156,6 +157,7 @@ have fun - happy coding
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0070-climbing-stairs) |
@@ -202,6 +204,7 @@ have fun - happy coding
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0125-valid-palindrome) |
@@ -361,4 +364,8 @@ have fun - happy coding
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0141-linked-list-cycle) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
