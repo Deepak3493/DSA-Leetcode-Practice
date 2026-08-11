@@ -26,6 +26,7 @@ have fun - happy coding
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -71,6 +72,7 @@ have fun - happy coding
 | [0041-first-missing-positive](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0217-contains-duplicate) |
@@ -156,6 +158,7 @@ have fun - happy coding
 | [0053-maximum-subarray](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0435-non-overlapping-intervals) |
@@ -192,6 +195,7 @@ have fun - happy coding
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0139-word-break) |
 ## String
 |  |
 | ------- |
@@ -199,6 +203,7 @@ have fun - happy coding
 | [0020-valid-parentheses](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0139-word-break) |
 | [0516-longest-palindromic-subsequence](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0567-permutation-in-string) |
 | [1143-longest-common-subsequence](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/1143-longest-common-subsequence) |
@@ -341,4 +346,12 @@ have fun - happy coding
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0128-longest-consecutive-sequence) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
