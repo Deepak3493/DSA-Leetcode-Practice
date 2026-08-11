@@ -1,30 +1,14 @@
 class Solution {
     public int missingNumber(int[] nums) {
-        // int i = 0;
-        // while(i<nums.length){
-        //    int correctIndex = nums[i];
-           
-        //    if(correctIndex<nums.length && nums[i]!=nums[correctIndex]){
-        //         int temp = nums[i];
-        //         nums[i] = nums[correctIndex];
-        //         nums[correctIndex] = temp;
-        //    }
-        //    else{
-        //         i++;
-        //    }
-        // }
-        // for(i=0;i<nums.length;i++){
-        //     if(nums[i]!=i){
-        //         return i;
-        //     }
-        // }
-        // return nums.length;
-        
-        //xor approach
-        int num = nums.length;
-        for(int i=0;i<nums.length;i++){
-            num = num^i^nums[i];
+        int n = nums.length;
+        int ans = 0;
+        for(int i=0;i<=n;i++){
+            ans = ans^i;
+            if(i==n){
+                continue;
+            }
+            ans = ans^nums[i];
         }
-        return num;
+        return ans;
     }
 }
