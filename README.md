@@ -73,6 +73,7 @@ have fun - happy coding
 | [0073-set-matrix-zeroes](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0139-word-break) |
+| [0141-linked-list-cycle](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0217-contains-duplicate) |
@@ -112,6 +113,7 @@ have fun - happy coding
 | [0042-trapping-rain-water](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0234-palindrome-linked-list) |
@@ -245,6 +247,7 @@ have fun - happy coding
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0206-reverse-linked-list) |
@@ -354,4 +357,8 @@ have fun - happy coding
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0139-word-break) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
