@@ -371,4 +371,8 @@ have fun - happy coding
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0005-longest-palindromic-substring) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
