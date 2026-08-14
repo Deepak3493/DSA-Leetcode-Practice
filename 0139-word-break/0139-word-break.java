@@ -1,28 +1,31 @@
 class Solution {
     public boolean wordBreak(String s, List<String> wordDict) {
-        Boolean dp [][] = new Boolean[s.length()][s.length()];
-        // for(int t[]:dp){
-        //     Arrays.fill(t,-1);
+        Boolean dp[][] = new Boolean[s.length()][s.length()];
+        // for(int arr[]:dp){
+        //     Arrays.fill(arr, -1);
         // }
-        return solve(0,0,s, new HashSet<>(wordDict), dp);
+        HashSet<String> londiya = new HashSet<>(wordDict);
+        return findGspot(0,0,londiya,s, dp);
     }
-    public static boolean solve(int s, int e, String str, HashSet<String> set, Boolean dp [][] ){
-        if(e == str.length()-1){
-            if(set.contains(str.substring(s, e+1))){
-                return dp[s][e] = true;
-            }
-            return dp[s][e] = false;
+    public static boolean findGspot(int upar, int neeche, HashSet<String> londiya, String s,  Boolean dp[][]){
+        String neecheKaPaani;
+        if(neeche > s.length()){
+            return false;
         }
-        if(dp[s][e]!= null){
-            return dp[s][e];
+        if(neeche == s.length()){
+            neecheKaPaani = s.substring(upar,neeche);
+            //System.out.println(neecheKaPaani);
+            return londiya.contains(neecheKaPaani);
         }
-        if(set.contains(str.substring(s, e+1))){
-               if(solve(e+1,e+1, str, set, dp)){
-                return dp[s][e] = true;
-            }
+        if(dp[upar][neeche]!=null){
+            return dp[upar][neeche];
         }
-
-        return dp[s][e] = solve(s,e+1,str, set, dp);
-
+        neecheKaPaani = s.substring(upar,neeche);
+        boolean result = false;
+        if(londiya.contains(neecheKaPaani)){
+            //System.out.println(neecheKaPaani);
+            result =  findGspot(neeche, neeche+1,londiya, s, dp);
+        }
+        return dp[upar][neeche] = result || findGspot(upar, neeche+1,londiya, s, dp);
     }
 }
