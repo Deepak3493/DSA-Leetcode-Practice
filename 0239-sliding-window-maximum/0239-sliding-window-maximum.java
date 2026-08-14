@@ -1,28 +1,35 @@
 class Solution {
     public int[] maxSlidingWindow(int[] nums, int k) {
-       Deque<Integer> q = new ArrayDeque<>(); 
-       int ans[] = new int[nums.length-k+1];
-       int j = 0; 
-       for(int i = 0;i<nums.length;i++){
-            if(i>k-1 && q.size()>0 && q.peekFirst()== i-k){
-                q.pollFirst();
-            }
+        int start = 0;
+        int ans[] = new int[nums.length-k+1];
+        Deque<Integer> q = new LinkedList<>();
+        for(int i=0;i<nums.length;i++){
             int num = nums[i];
-            while(q.size()>0 && nums[q.peekFirst()]<num){
+            if(q.size()>0 && q.peekFirst()<num){
+                while(q.size()>0 && q.peekFirst()<num){
+                    q.pollFirst();
+                }
+                q.addFirst(num);
+            }
+            else if(q.size()==0){
+                q.addFirst(num);
+            } 
+            else{
+                while(q.size()>0 && q.peekLast()<num){
+                    q.pollLast();
+                }
+                q.addLast(num);
+            }
+            if(i<k){
+                ans[0] = Math.max(ans[0],num);  
+               continue;
+            }
+            int prevNum = nums[i-k];
+            if(q.size()>0 && q.peekFirst()==prevNum){
                 q.pollFirst();
             }
-            if(q.size()== 0 || nums[q.peekFirst()]<num){
-                q.addFirst(i);
-            }else{
-                 while(q.size()>0 && nums[q.peekLast()]<num){
-                    q.pollLast();
-                 }
-                 q.addLast(i);
-            }
-            if(i>=k-1){
-                ans[j++] = nums[q.peekFirst()];
-            }  
-       } 
-       return ans;
+            ans[i-k+1] = q.size()>0 ? q.peekFirst():num;
+        }
+        return ans;
     }
 }
