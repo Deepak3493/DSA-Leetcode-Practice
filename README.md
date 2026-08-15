@@ -57,6 +57,7 @@ have fun - happy coding
 | [0525-contiguous-array](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0643-maximum-average-subarray-i) |
+| [0665-non-decreasing-array](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0665-non-decreasing-array) |
 | [0713-subarray-product-less-than-k](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0733-flood-fill) |
