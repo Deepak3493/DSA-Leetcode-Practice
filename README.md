@@ -119,6 +119,7 @@ have fun - happy coding
 | [0125-valid-palindrome](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0142-linked-list-cycle-ii) |
+| [0151-reverse-words-in-a-string](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0234-palindrome-linked-list) |
@@ -215,6 +216,7 @@ have fun - happy coding
 | [0079-word-search](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0139-word-break) |
+| [0151-reverse-words-in-a-string](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0567-permutation-in-string) |
 | [1143-longest-common-subsequence](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/1143-longest-common-subsequence) |
