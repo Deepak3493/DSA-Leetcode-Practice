@@ -90,6 +90,7 @@ have fun - happy coding
 | [0567-permutation-in-string](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0904-fruit-into-baskets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2947-count-beautiful-substrings-i](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/2947-count-beautiful-substrings-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -101,6 +102,7 @@ have fun - happy coding
 | [0713-subarray-product-less-than-k](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/1004-max-consecutive-ones-iii) |
+| [2947-count-beautiful-substrings-i](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/2947-count-beautiful-substrings-i) |
 ## Design
 |  |
 | ------- |
@@ -203,6 +205,7 @@ have fun - happy coding
 | [0150-evaluate-reverse-polish-notation](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0268-missing-number) |
+| [2947-count-beautiful-substrings-i](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/2947-count-beautiful-substrings-i) |
 ## Memoization
 |  |
 | ------- |
@@ -222,6 +225,7 @@ have fun - happy coding
 | [0567-permutation-in-string](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0567-permutation-in-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1143-longest-common-subsequence](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/1143-longest-common-subsequence) |
+| [2947-count-beautiful-substrings-i](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/2947-count-beautiful-substrings-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -388,4 +392,12 @@ have fun - happy coding
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Enumeration
+|  |
+| ------- |
+| [2947-count-beautiful-substrings-i](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/2947-count-beautiful-substrings-i) |
+## Number Theory
+|  |
+| ------- |
+| [2947-count-beautiful-substrings-i](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/2947-count-beautiful-substrings-i) |
 <!---LeetCode Topics End-->
