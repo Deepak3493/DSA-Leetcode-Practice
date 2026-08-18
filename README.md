@@ -148,6 +148,7 @@ have fun - happy coding
 | [0011-container-with-most-water](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0011-container-with-most-water) |
 | [0435-non-overlapping-intervals](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Sorting
 |  |
 | ------- |
@@ -219,6 +220,7 @@ have fun - happy coding
 | [0151-reverse-words-in-a-string](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0567-permutation-in-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1143-longest-common-subsequence](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/1143-longest-common-subsequence) |
 ## Depth-First Search
 |  |
@@ -276,6 +278,7 @@ have fun - happy coding
 | [0503-next-greater-element-ii](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0901-online-stock-span) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Recursion
 |  |
 | ------- |
@@ -381,4 +384,8 @@ have fun - happy coding
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0239-sliding-window-maximum) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
