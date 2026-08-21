@@ -3,10 +3,10 @@ class Solution {
         if (s.length() == 0)
             return true;
         Boolean dp[][] = new Boolean[s.length()][t.length()];
-        return check(s, t, "", 0, 0, dp);
+        return check(s, t, 0, 0, dp);
     }
 
-    public boolean check(String s, String t, String ans, int i, int j, Boolean dp[][]) {
+    public boolean check(String s, String t, int i, int j, Boolean dp[][]) {
         if (i >= s.length()) {
             return true;
         }
@@ -18,9 +18,9 @@ class Solution {
             return dp[i][j];
 
         if (s.charAt(i) == t.charAt(j)) {
-            return dp[i][j] = check(s, t, ans + t.charAt(i), i + 1, j + 1, dp);
+            return dp[i][j] = check(s, t, i + 1, j + 1, dp);
         }
 
-        return dp[i][j] = check(s, t, ans, i, j + 1, dp);
+        return dp[i][j] = check(s, t, i, j + 1, dp);
     }
 }
