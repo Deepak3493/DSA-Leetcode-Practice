@@ -1,29 +1,22 @@
 class Solution {
     public int[] rearrangeArray(int[] nums) {
-        int i=0;
-        int j=0;
-        int ans[] = new int[nums.length];
-        int k=0;
-        while(i<nums.length && j<nums.length){
-            while(j<nums.length && nums[j]<0){
-                 j++;
+        int i = 0;
+        int j = 0;
+        int arr[] = new int[nums.length];
+        int k = 0;
+        while (i < nums.length || j < nums.length) {
+            while (i < nums.length && nums[i] < 0) {
+                i++;
             }
-            while(i<nums.length && nums[i]>0){
-                 i++;
+            if (i < nums.length)
+                arr[k++] = nums[i++];
+            while (j < nums.length && nums[j] > 0) {
+                j++;
             }
-           
-            ans[k++] = nums[j++];
-            ans[k++] = nums[i++];
+            if (j < nums.length)
+                arr[k++] = nums[j++];
         }
-        // while(j<nums.length){
-        //         ans[k++] = nums[j++];
-        //         j++;
-        // }
-        // while(i<nums.length){
-        //         ans[k++] = nums[i++];
-        //         i++;
-        // }
-        return ans;
 
+        return arr;
     }
 }
