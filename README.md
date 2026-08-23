@@ -32,6 +32,7 @@ have fun - happy coding
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0209-minimum-size-subarray-sum) |
@@ -79,6 +80,7 @@ have fun - happy coding
 | [0141-linked-list-cycle](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0146-lru-cache) |
+| [0169-majority-element](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0268-missing-number) |
@@ -159,6 +161,7 @@ have fun - happy coding
 | [0015-3sum](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0268-missing-number) |
@@ -197,6 +200,7 @@ have fun - happy coding
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
 ## Math
@@ -332,6 +336,7 @@ have fun - happy coding
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0387-first-unique-character-in-a-string) |
 ## Quickselect
@@ -415,4 +420,8 @@ have fun - happy coding
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0075-sort-colors) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
