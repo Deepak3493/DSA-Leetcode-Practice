@@ -407,4 +407,12 @@ have fun - happy coding
 |  |
 | ------- |
 | [2947-count-beautiful-substrings-i](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/2947-count-beautiful-substrings-i) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Deepak3493/DSA-Leetcode-Practice/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
